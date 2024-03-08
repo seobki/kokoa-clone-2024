@@ -1,3 +1,3 @@
-# Kokoa Clone 2020 Update
+# Kokoa Clone 2024 Update
 
 HTML5 + CSS3
